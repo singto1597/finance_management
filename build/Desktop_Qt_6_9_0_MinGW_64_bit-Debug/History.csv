@@ -1,0 +1,97 @@
+
+
+2025-05-10 pmGMT+7 14:59:36,Get money,0,0,0
+,Breakfast Cost,0,0,0
+,Lunch Cost,0,0,0
+,Dinner Cost,0,0,0
+,Other: จ่ายค่าห้อง,0,20,-20
+,Left Money,0,0,-20,-20
+
+
+2025-05-10 pmGMT+7 15:09:24,Get money,1000,0,1000
+,Breakfast Cost,0,0,1000
+,Lunch Cost,0,30,970
+,Dinner Cost,0,0,970
+,Left Money,0,0,970,950
+
+
+2025-05-10 pmGMT+7 15:12:21,Get money,0,0,0
+,Breakfast Cost,0,0,0
+,Lunch Cost,0,0,0
+,Dinner Cost,0,0,0
+,Other: clip,0,-100,100
+,Left Money,0,0,100,1050
+
+
+2025-05-10 pmGMT+7 15:34:47,Get money,0,0,0
+,Breakfast Cost,0,0,0
+,Lunch Cost,0,0,0
+,Dinner Cost,0,0,0
+,Other: ดพด,0,20,-20
+,Left Money,0,0,-20,1030
+
+
+2025-05-10 pmGMT+7 16:43:26,Get money,0,0,0
+,Breakfast Cost,0,0,0
+,Lunch Cost,0,0,0
+,Dinner Cost,0,0,0
+,Other: ขนม,0,20,-20
+,Left Money,0,0,-20,1010
+
+
+2025-05-10 pmGMT+7 18:50:57,Get money,0,0,0
+,Breakfast Cost,0,0,0
+,Lunch Cost,0,0,0
+,Dinner Cost,0,0,0
+,Left Money,0,0,0,1010
+
+
+2025-05-10 pmGMT+7 22:43:26,Get money,100,0,100
+,Breakfast Cost,0,25,75
+,Lunch Cost,0,25,50
+,Dinner Cost,0,0,50
+,Other: ขนม,0,20,30
+,Other: ปากกา,0,5,25
+,Left Money,0,0,25,1035
+
+
+2025-05-10 pmGMT+7 22:48:34,Get money,100,0,100
+,Breakfast Cost,0,0,100
+,Lunch Cost,0,0,100
+,Dinner Cost,0,0,100
+,Other: ไทวัสดุ,0,-400,500
+,Left Money,0,0,500,1535
+
+
+2025-05-11 pmGMT+7 15:24:16,Get money,0,0,0
+,Breakfast Cost,0,0,0
+,Lunch Cost,0,0,0
+,Dinner Cost,0,0,0
+,Other: abc,900,0,900
+,Other: saa,0,70,830
+,Left Money,0,0,830,2365
+
+
+2025-05-11 pmGMT+7 15:24:49,Get money,0,0,0
+,Breakfast Cost,0,0,0
+,Lunch Cost,0,0,0
+,Dinner Cost,0,0,0
+,Other: abc,900,0,900
+,Other: saa,0,70,830
+,Left Money,0,0,830,3195
+
+
+2025-06-24 pmGMT+7 15:36:19,Get money,0,0,0
+,Breakfast Cost,0,0,0
+,Lunch Cost,0,0,0
+,Dinner Cost,0,0,0
+,Save to Bank,0,555,-555
+,Left Money,0,0,-555,2640
+
+
+2025-06-24 pmGMT+7 15:36:26,Get money,0,0,0
+,Breakfast Cost,0,0,0
+,Lunch Cost,0,0,0
+,Dinner Cost,0,0,0
+,Save to Bank,0,-555,555
+,Left Money,0,0,0,2640

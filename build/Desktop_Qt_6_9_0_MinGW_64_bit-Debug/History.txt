@@ -1,0 +1,145 @@
+------------
+2025-05-10 pmGMT+7 14:59:36
+
+Have Money: 0
+Breakfast: 0
+Lunch: 0
+Dinner: 0
+Other - จ่ายค่าห้อง: 20
+Left Money: -20
+Save Money: -20
+------------
+
+------------
+2025-05-10 pmGMT+7 15:09:24
+
+Have Money: 1000
+Breakfast: 0
+Lunch: 30
+Dinner: 0
+Left Money: 970
+Save Money: 950
+------------
+
+------------
+2025-05-10 pmGMT+7 15:12:21
+
+Have Money: 0
+Breakfast: 0
+Lunch: 0
+Dinner: 0
+Other - clip: -100
+Left Money: 100
+Save Money: 1050
+------------
+
+------------
+2025-05-10 pmGMT+7 15:34:47
+
+Have Money: 0
+Breakfast: 0
+Lunch: 0
+Dinner: 0
+Other - ดพด: 20
+Left Money: -20
+Save Money: 1030
+------------
+
+------------
+2025-05-10 pmGMT+7 16:43:26
+
+Have Money: 0
+Breakfast: 0
+Lunch: 0
+Dinner: 0
+Other - ขนม: 20
+Left Money: -20
+Save Money: 1010
+------------
+
+------------
+2025-05-10 pmGMT+7 18:50:57
+
+Have Money: 0
+Breakfast: 0
+Lunch: 0
+Dinner: 0
+Left Money: 0
+Save Money: 1010
+------------
+
+------------
+2025-05-10 pmGMT+7 22:43:26
+
+Have Money: 100
+Breakfast: 25
+Lunch: 25
+Dinner: 0
+Other - ขนม: 20
+Other - ปากกา: 5
+Left Money: 25
+Save Money: 1035
+------------
+
+------------
+2025-05-10 pmGMT+7 22:48:34
+
+Have Money: 100
+Breakfast: 0
+Lunch: 0
+Dinner: 0
+Other - ไทวัสดุ: -400
+Left Money: 500
+Save Money: 1535
+------------
+
+------------
+2025-05-11 pmGMT+7 15:24:16
+
+Have Money: 0
+Breakfast: 0
+Lunch: 0
+Dinner: 0
+Other - abc: -900
+Other - saa: 70
+Left Money: 830
+Save Money: 2365
+------------
+
+------------
+2025-05-11 pmGMT+7 15:24:49
+
+Have Money: 0
+Breakfast: 0
+Lunch: 0
+Dinner: 0
+Other - abc: -900
+Other - saa: 70
+Left Money: 830
+Save Money: 3195
+------------
+
+------------
+2025-06-24 pmGMT+7 15:36:19
+
+Have Money: 0
+Breakfast: 0
+Lunch: 0
+Dinner: 0
+Save to Bank: 555
+Left Money: -555
+Save Money: 2640
+------------
+
+------------
+2025-06-24 pmGMT+7 15:36:26
+
+Have Money: 0
+Breakfast: 0
+Lunch: 0
+Dinner: 0
+Save to Bank: -555
+Left Money: 0
+Save Money: 2640
+------------
+

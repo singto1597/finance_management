@@ -1,0 +1,118 @@
+------------
+2025-05-11 pmGMT+7 18:56:49
+
+Have Money: 0
+Breakfast: 0
+Lunch: 0
+Dinner: 0
+Left Money: 0
+Save Money: 0
+------------
+
+------------
+2025-05-11 pmGMT+7 19:11:30
+
+Have Money: 0
+Breakfast: 0
+Lunch: 0
+Dinner: 0
+Other - อออ: 30
+Left Money: -30
+Save Money: -30
+------------
+
+------------
+2025-05-11 pmGMT+7 19:11:46
+
+Have Money: 100
+Breakfast: 0
+Lunch: 0
+Dinner: 0
+Left Money: 100
+Save Money: 70
+------------
+
+------------
+2025-05-11 pmGMT+7 19:12:14
+
+Have Money: 100
+Breakfast: 25
+Lunch: 25
+Dinner: 25
+Other - ฟฟฟฟ: -50
+Left Money: 75
+Save Money: 145
+------------
+
+------------
+2025-05-18 pmGMT+7 14:49:41
+
+Have Money: 0
+Breakfast: 0
+Lunch: 0
+Dinner: 0
+Save to Bank: 20
+Left Money: -20
+Save Money: 125
+------------
+
+------------
+2025-05-18 pmGMT+7 14:53:26
+
+Have Money: 0
+Breakfast: 0
+Lunch: 0
+Dinner: 0
+Save to Bank: 0
+Left Money: 0
+Save Money: 125
+------------
+
+------------
+2025-05-18 pmGMT+7 14:53:28
+
+Have Money: 0
+Breakfast: 0
+Lunch: 0
+Dinner: 0
+Save to Bank: 0
+Left Money: 0
+Save Money: 125
+------------
+
+------------
+2025-05-18 pmGMT+7 14:53:30
+
+Have Money: 0
+Breakfast: 0
+Lunch: 0
+Dinner: 0
+Save to Bank: 50
+Left Money: -50
+Save Money: 75
+------------
+
+------------
+2025-05-18 pmGMT+7 15:03:24
+
+Have Money: 0
+Breakfast: 0
+Lunch: 0
+Dinner: 0
+Save to Bank: 5
+Left Money: -5
+Save Money: 70
+------------
+
+------------
+2025-05-18 pmGMT+7 15:26:37
+
+Have Money: 0
+Breakfast: 0
+Lunch: 0
+Dinner: 0
+Save to Bank: 50
+Left Money: -50
+Save Money: 20
+------------
+
